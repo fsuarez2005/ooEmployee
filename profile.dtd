@@ -1,0 +1,43 @@
+<!-- 
+-- DTD for Profile
+-- 
+-- Elements: name, ssn, street number, street, city, state, zip code, phone, 
+-- 
+-- 
+-- 
+-- 
+-- 
+-- 
+--><!DOCTYPE profile [
+	  <!ELEMENT profile>
+	  <!ELEMENT version>
+
+
+	  <!ELEMENT person (lastname,firstname,middleinitial)>
+	  <!ELEMENT lastname>
+	  <!ELEMENT firstname>
+	  <!ELEMENT middleinitial>
+
+	  <!ELEMENT address (streetnumber,street,apartment?,city,state,zipcode)>
+	  <!ELEMENT streetnumber>
+	  <!ELEMENT street>
+	  <!ELEMENT apartment>
+	  <!ELEMENT city>
+	  <!ELEMENT state>
+	  <!ELEMENT zipcode>
+
+	  <!ELEMENT phonenumber>
+
+	  <!ELEMENT skills>
+
+	  <!ELEMENT employment>
+
+
+	  <!ELEMENT education>
+
+	  <!ELEMENT references (person?)>
+
+	  
+
+
+]>

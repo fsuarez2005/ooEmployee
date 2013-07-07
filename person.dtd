@@ -1,0 +1,22 @@
+<!--
+
+
+
+
+
+-->
+<!DOCTYPE person [
+	  <!ELEMENT person>
+	  <!ELEMENT title>
+	  <!ATTLIST title value CDATA "">
+	  <!ELEMENT firstname>
+	  <!ATTLIST firstname value CDATA "">
+	  <!ELEMENT middlename>
+	  <!ELEMENT surname>
+	  <!ELEMENT prefix>
+	  
+	  <!ELEMENT ssn>
+	  <!ATTLIST ssn value CDATA "">
+
+
+]>

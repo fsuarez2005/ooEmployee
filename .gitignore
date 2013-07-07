@@ -1,0 +1,8 @@
+# .gitignore
+
+# backups
+*~
+*.bak
+
+# reference
+misc/
