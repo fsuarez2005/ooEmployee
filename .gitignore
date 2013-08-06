@@ -1,8 +1,17 @@
 # .gitignore
 
+# binary
+*.o
+
+
 # backups
 *~
 *.bak
+\#*
+.*
+
+# temp
+*depend
 
 # reference
 misc/

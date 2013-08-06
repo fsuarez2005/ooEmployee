@@ -1,0 +1,30 @@
+//////////////////////////
+//                      //
+//       ooEmployee     //
+//                      //
+//////////////////////////
+
+INTRODUCTION
+
+An employee and job matching system.
+
+PROBLEMS TO SOLVE
+
+High unemployment could be caused by a lack of communication between employers and employees. Employer to employee communication includes job offers and employee to employer communication includes resumes and job applications. The downsizing of companies may reduce the number of human resource workers leading to the use of computerized systems. Very poorly designed systems.
+
+ > Employees want to know what jobs are out there.
+ > Employees may look for certain jobs that don't utilize all their skills.
+ > Employees may have skills they don't know what to do with.
+ > Employers want employees with the right skills.
+ > Employers don't have many resources to handle many applicants.
+ > Current job application systems rely on keyword searching and personality quizzes.
+ > Job app systems are centralized and differ only slightly.
+
+PROPOSED SOLUTION
+
+ > Decentralized system.
+ > Data kept in structured files.
+ > Use standardized file formats.
+ > Use standard career classification numbers.
+
+The new system would use modular data types so additional types could be added while keeping it backwards compatible. Implementing this system would put the data into a database so it can be processed faster.
