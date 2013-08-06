@@ -10,7 +10,11 @@ An employee and job matching system.
 
 PROBLEMS TO SOLVE
 
-High unemployment could be caused by a lack of communication between employers and employees. Employer to employee communication includes job offers and employee to employer communication includes resumes and job applications. The downsizing of companies may reduce the number of human resource workers leading to the use of computerized systems. Very poorly designed systems.
+High unemployment could be caused by a lack of communication between employers and
+employees. Employer to employee communication includes job offers and employee to employer
+communication includes resumes and job applications. The downsizing of companies may
+reduce the number of human resource workers leading to the use of computerized
+systems. Very poorly designed systems.
 
  > Employees want to know what jobs are out there.
  > Employees may look for certain jobs that don't utilize all their skills.
@@ -27,4 +31,7 @@ PROPOSED SOLUTION
  > Use standardized file formats.
  > Use standard career classification numbers.
 
-The new system would use modular data types so additional types could be added while keeping it backwards compatible. Implementing this system would put the data into a database so it can be processed faster.
+The new system would use modular data types so additional types could be added while
+keeping it backwards compatible. Implementing this system would put the data into a
+database so it can be processed faster.
+
